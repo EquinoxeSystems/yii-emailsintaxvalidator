@@ -1,2 +1,13 @@
 # yii-emailsintaxvalidator
-Extension to validate the sintax of an e-mail address, for Yii 1.1.
+
+Extension to validate if the syntax of an e-mail address is correct, for Yii 1.1. 
+
+## Installation and usage
+
+Please visit the extension page [here](https://www.yiiframework.com/extension/emailsintaxvalidator).
+
+## License 
+
+Copyright © 2008-2011 Rodolfo González González.
+
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
