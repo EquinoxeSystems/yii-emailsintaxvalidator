@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/yii-emailsintaxvalidator) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/yii-emailsintaxvalidator)
 
-Extension to validate if the syntax of an e-mail address is correct, for Yii 1.1. 
+Extension to validate if the syntax of an e-mail address is correct, for [Yii](https://yiiframework.com) 1.1. 
 
 ## Installation and usage
 
